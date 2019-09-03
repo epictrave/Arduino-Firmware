@@ -1,6 +1,11 @@
 # Arduino-Firmware
 
-Arduino Firmware Update for esp8226, esp32
+Arduino firmware update
+
+## Support platform
+
+- esp8226
+- esp32
 
 ## Usage
 
